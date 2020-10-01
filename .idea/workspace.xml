@@ -12,7 +12,6 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -198,22 +197,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="110" y="120" width="1060" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.720@0.0.1280.720" timestamp="1601362394708" />
-    <state width="1208" height="174" key="GridCell.Tab.0.bottom" timestamp="1601551888298">
+    <state width="1208" height="174" key="GridCell.Tab.0.bottom" timestamp="1601552071242">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1208" height="174" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1601551888298" />
-    <state width="1208" height="174" key="GridCell.Tab.0.center" timestamp="1601551888298">
+    <state width="1208" height="174" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1601552071242" />
+    <state width="1208" height="174" key="GridCell.Tab.0.center" timestamp="1601552071241">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1208" height="174" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1601551888298" />
-    <state width="1208" height="174" key="GridCell.Tab.0.left" timestamp="1601551888298">
+    <state width="1208" height="174" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1601552071241" />
+    <state width="1208" height="174" key="GridCell.Tab.0.left" timestamp="1601552071241">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1208" height="174" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1601551888298" />
-    <state width="1208" height="174" key="GridCell.Tab.0.right" timestamp="1601551888298">
+    <state width="1208" height="174" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1601552071241" />
+    <state width="1208" height="174" key="GridCell.Tab.0.right" timestamp="1601552071241">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1208" height="174" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1601551888298" />
+    <state width="1208" height="174" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1601552071241" />
     <state x="336" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1601397151795">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

@@ -9,9 +9,9 @@ import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 
+import java.net.URI;
+
 public class InfoActivity extends AppCompatActivity {
-    private final String STORE_GEO_LOCATION  = "geo:0,0?q=618 E South St Orlando, FL 32801";
-    private final String GOOGLE_MAPS_PACKAGE = "com.google.android.apps.maps";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,18 +28,20 @@ public class InfoActivity extends AppCompatActivity {
     }
 
     public void createMapIntent(View view){
+        String STORE_GEO_LOCATION = "geo:0,0?q=618 E South St Orlando, FL 32801";
         Uri uri = Uri.parse(STORE_GEO_LOCATION);
         Intent mapIntent = new Intent(Intent.ACTION_VIEW, uri);
+        String GOOGLE_MAPS_PACKAGE = "com.google.android.apps.maps";
         mapIntent.setPackage(GOOGLE_MAPS_PACKAGE);
         if(mapIntent.resolveActivity(getPackageManager()) != null){
             startActivity(mapIntent);
         }
     }
-    // ***
-    // TODO - Task 2 - Launch the Google Maps Activity
-    // ***
 
-    // ***
-    // TODO - Task 3 - Launch the Phone Activity
-    // ***
+    public void createPhoneIntent(View view){
+        String telephoneNumber = "tel:0123456789";
+        Intent dialIntent = new Intent(Intent.ACTION_DIAL);
+        dialIntent.setData(Uri.parse(telephoneNumber));
+        startActivity(dialIntent);
+    }
 }
